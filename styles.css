@@ -79,12 +79,6 @@ HEADER
 
 */
 
-.row__header{
-    display: flex;
-    align-items: center;
-}
-
-
 .desktop__header{
     width: 60%;
 }
